@@ -1,0 +1,44 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(132, 15, 161);
+}
+
+h1,p{
+  color: #fff;
+}
+
+bottom{
+  height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid rgb(241, 157, 157);
+    background-color: rgb(204, 29, 29);
+    color: rgb(126, 21, 21);
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+#counter {
+    display: flex;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
+
+
+
+
+
+
